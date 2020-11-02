@@ -1,0 +1,38 @@
+/* add your CSS here */
+body {
+   width: 320px;    
+} 
+h3 {
+    font-size: larger;
+    padding: 10px;
+}
+img {
+    width: 300px;
+}
+p {
+    padding: 10px;
+}
+ul {
+    margin: 10px;
+    padding: 0;
+}
+li {
+   list-style: none;
+}
+span {
+    font-weight: bold;
+}
+.border {
+    margin: 10px;
+    border: 0.5px solid lightgray;
+    width: 280px;
+    box-shadow: 1px 5px lightgray;
+}
+.inner-border {
+    margin: 10px;
+    border: 0.5px solid lightgray;
+    width: 260px;
+}
+.main-text {
+    font-style: italic;
+}
